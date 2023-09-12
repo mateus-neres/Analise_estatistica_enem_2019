@@ -2,6 +2,7 @@
 Este repositorio foi criado para o estudo de estatítiscas aplicadas em análise de dados com Python.
 
 #**Referências e links úteis**
+
 Referências Bibliográficas
 
 LARSON, Ron. Estatística Aplicada. São Paulo: Pearson Prentice Hall, 2010.
@@ -43,4 +44,5 @@ Gráficos
 https://seaborn.pydata.org/index.html
 
 https://plotly.com/python/reference/#layout
+
 Em caso de duvidas ou sugestões pode me contactar via e-mail, mateusneres03@gmail.com.
