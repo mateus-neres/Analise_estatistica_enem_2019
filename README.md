@@ -1,4 +1,4 @@
-# tratamento_enem_2019
+# projeto_de_analise_estatistica_enem_2019
 Este repositorio foi criado para o estudo de estatítiscas aplicadas em análise de dados com Python.
 
 #**Referências e links úteis**
